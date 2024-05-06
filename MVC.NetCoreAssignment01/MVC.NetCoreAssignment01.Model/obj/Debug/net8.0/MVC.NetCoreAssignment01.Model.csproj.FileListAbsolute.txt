@@ -1,0 +1,11 @@
+C:\Users\GL75\OneDrive\Máy tính\Roookies\MVC.NetCoreAssignment01\MVC.NetCoreAssignment01.Model\bin\Debug\net8.0\MVC.NetCoreAssignment01.Model.deps.json
+C:\Users\GL75\OneDrive\Máy tính\Roookies\MVC.NetCoreAssignment01\MVC.NetCoreAssignment01.Model\bin\Debug\net8.0\MVC.NetCoreAssignment01.Model.dll
+C:\Users\GL75\OneDrive\Máy tính\Roookies\MVC.NetCoreAssignment01\MVC.NetCoreAssignment01.Model\bin\Debug\net8.0\MVC.NetCoreAssignment01.Model.pdb
+C:\Users\GL75\OneDrive\Máy tính\Roookies\MVC.NetCoreAssignment01\MVC.NetCoreAssignment01.Model\obj\Debug\net8.0\MVC.NetCoreAssignment01.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GL75\OneDrive\Máy tính\Roookies\MVC.NetCoreAssignment01\MVC.NetCoreAssignment01.Model\obj\Debug\net8.0\MVC.NetCoreAssignment01.Model.AssemblyInfoInputs.cache
+C:\Users\GL75\OneDrive\Máy tính\Roookies\MVC.NetCoreAssignment01\MVC.NetCoreAssignment01.Model\obj\Debug\net8.0\MVC.NetCoreAssignment01.Model.AssemblyInfo.cs
+C:\Users\GL75\OneDrive\Máy tính\Roookies\MVC.NetCoreAssignment01\MVC.NetCoreAssignment01.Model\obj\Debug\net8.0\MVC.NetCoreAssignment01.Model.csproj.CoreCompileInputs.cache
+C:\Users\GL75\OneDrive\Máy tính\Roookies\MVC.NetCoreAssignment01\MVC.NetCoreAssignment01.Model\obj\Debug\net8.0\MVC.NetCoreAssignment01.Model.dll
+C:\Users\GL75\OneDrive\Máy tính\Roookies\MVC.NetCoreAssignment01\MVC.NetCoreAssignment01.Model\obj\Debug\net8.0\refint\MVC.NetCoreAssignment01.Model.dll
+C:\Users\GL75\OneDrive\Máy tính\Roookies\MVC.NetCoreAssignment01\MVC.NetCoreAssignment01.Model\obj\Debug\net8.0\MVC.NetCoreAssignment01.Model.pdb
+C:\Users\GL75\OneDrive\Máy tính\Roookies\MVC.NetCoreAssignment01\MVC.NetCoreAssignment01.Model\obj\Debug\net8.0\ref\MVC.NetCoreAssignment01.Model.dll

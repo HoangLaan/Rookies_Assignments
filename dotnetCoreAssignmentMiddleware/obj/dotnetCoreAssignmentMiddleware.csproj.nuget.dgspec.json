@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\GL75\\OneDrive\\Máy tính\\Roookies\\dotnetCoreAssignmentMiddleware\\dotnetCoreAssignmentMiddleware.csproj": {}
+    "C:\\Users\\GL75\\OneDrive\\Tài liệu\\GitHub\\Rookies_Assignments\\dotnetCoreAssignmentMiddleware\\dotnetCoreAssignmentMiddleware.csproj": {}
   },
   "projects": {
-    "C:\\Users\\GL75\\OneDrive\\Máy tính\\Roookies\\dotnetCoreAssignmentMiddleware\\dotnetCoreAssignmentMiddleware.csproj": {
+    "C:\\Users\\GL75\\OneDrive\\Tài liệu\\GitHub\\Rookies_Assignments\\dotnetCoreAssignmentMiddleware\\dotnetCoreAssignmentMiddleware.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\GL75\\OneDrive\\Máy tính\\Roookies\\dotnetCoreAssignmentMiddleware\\dotnetCoreAssignmentMiddleware.csproj",
+        "projectUniqueName": "C:\\Users\\GL75\\OneDrive\\Tài liệu\\GitHub\\Rookies_Assignments\\dotnetCoreAssignmentMiddleware\\dotnetCoreAssignmentMiddleware.csproj",
         "projectName": "dotnetCoreAssignmentMiddleware",
-        "projectPath": "C:\\Users\\GL75\\OneDrive\\Máy tính\\Roookies\\dotnetCoreAssignmentMiddleware\\dotnetCoreAssignmentMiddleware.csproj",
+        "projectPath": "C:\\Users\\GL75\\OneDrive\\Tài liệu\\GitHub\\Rookies_Assignments\\dotnetCoreAssignmentMiddleware\\dotnetCoreAssignmentMiddleware.csproj",
         "packagesPath": "C:\\Users\\GL75\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\GL75\\OneDrive\\Máy tính\\Roookies\\dotnetCoreAssignmentMiddleware\\obj\\",
+        "outputPath": "C:\\Users\\GL75\\OneDrive\\Tài liệu\\GitHub\\Rookies_Assignments\\dotnetCoreAssignmentMiddleware\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\GL75\\AppData\\Roaming\\NuGet\\NuGet.Config",
