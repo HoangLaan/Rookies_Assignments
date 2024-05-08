@@ -1,0 +1,65 @@
+﻿@using MVC.NetAssignment02.Model.Model
+@model List<PersonModel>
+@{
+	ViewData["Title"] = "List Persons";
+}
+
+<style>
+    table {
+        border-collapse: collapse;
+        width: 100%;
+    }
+
+    th, td {
+        padding: 8px;
+        text-align: left;
+        border-bottom: 1px solid #ddd;
+    }
+</style>
+<ul class="navbar-nav flex-grow-1">
+    <li class="nav-item">
+        <h1>Person Details</h1>
+    </li>
+    <li class="nav-item d-flex align-items-center">
+        <button class="btn" >
+            <a style="font-size: 32px; text-decoration: none;" asp-controller="Person" asp-action="CreatePerson">
+                Create
+            </a>
+        </button>
+    </li>
+</ul>
+
+<table>
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Last Name</th>
+            <th>First Name</th>
+            <th>Gender</th>
+            <th>Date of Birth</th>
+            <th>Phone Number</th>
+            <th>Birth Place</th>
+            <th>Graduated</th>
+            <th>UPDATE</th>
+            <th>DELETE</th>
+
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var person in Model)
+        {
+            <tr>
+                <td>@person.Id</td>
+                <td>@person.LastName</td>
+                <td>@person.FirstName</td>
+                <td>@person.Gender</td>
+                <td>@person.DateOfBirth.ToString("dd/MM/yyyy")</td>
+                <td>@person.PhoneNumber</td>
+                <td>@person.BirthPlace</td>
+                <td>@(person.IsGraduated ? "Yes" : "No")</td>
+                <td> <a asp-controller="Person" asp-action="UpdatePerson" asp-route-id="@person.Id" >Update</a> </td>
+                <td> <a href="@Url.Action("DeletePerson", "Person")">Delete</a></td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\GL75\\OneDrive\\M\u00E1y t\u00EDnh\\Roookies\\MVC.NetAssignment02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{39063D29-FEEF-4975-892F-28FF45BCE1B6}|MVC.NetAssignment02.BusinessLogic\\MVC.NetAssignment02.BusinessLogic.csproj|c:\\users\\gl75\\onedrive\\m\u00E1y t\u00EDnh\\roookies\\mvc.netassignment02\\mvc.netassignment02.businesslogic\\personbusinesslogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39063D29-FEEF-4975-892F-28FF45BCE1B6}|MVC.NetAssignment02.BusinessLogic\\MVC.NetAssignment02.BusinessLogic.csproj|solutionrelative:mvc.netassignment02.businesslogic\\personbusinesslogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ED76729-15D6-4EC4-8958-21675072E3BC}|MVC.NetAssignment02.WebApp\\MVC.NetAssignment02.WebApp.csproj|c:\\users\\gl75\\onedrive\\m\u00E1y t\u00EDnh\\roookies\\mvc.netassignment02\\mvc.netassignment02.webapp\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ED76729-15D6-4EC4-8958-21675072E3BC}|MVC.NetAssignment02.WebApp\\MVC.NetAssignment02.WebApp.csproj|solutionrelative:mvc.netassignment02.webapp\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ED76729-15D6-4EC4-8958-21675072E3BC}|MVC.NetAssignment02.WebApp\\MVC.NetAssignment02.WebApp.csproj|c:\\users\\gl75\\onedrive\\m\u00E1y t\u00EDnh\\roookies\\mvc.netassignment02\\mvc.netassignment02.webapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9ED76729-15D6-4EC4-8958-21675072E3BC}|MVC.NetAssignment02.WebApp\\MVC.NetAssignment02.WebApp.csproj|solutionrelative:mvc.netassignment02.webapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D873A050-4EE6-4AE3-863C-FC8E58DC99BB}|MVC.NetAssignment02.Model\\MVC.NetAssignment02.Model.csproj|c:\\users\\gl75\\onedrive\\m\u00E1y t\u00EDnh\\roookies\\mvc.netassignment02\\mvc.netassignment02.model\\reposiroty\\personrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D873A050-4EE6-4AE3-863C-FC8E58DC99BB}|MVC.NetAssignment02.Model\\MVC.NetAssignment02.Model.csproj|solutionrelative:mvc.netassignment02.model\\reposiroty\\personrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ED76729-15D6-4EC4-8958-21675072E3BC}|MVC.NetAssignment02.WebApp\\MVC.NetAssignment02.WebApp.csproj|c:\\users\\gl75\\onedrive\\m\u00E1y t\u00EDnh\\roookies\\mvc.netassignment02\\mvc.netassignment02.webapp\\views\\person\\getmale.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9ED76729-15D6-4EC4-8958-21675072E3BC}|MVC.NetAssignment02.WebApp\\MVC.NetAssignment02.WebApp.csproj|solutionrelative:mvc.netassignment02.webapp\\views\\person\\getmale.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39063D29-FEEF-4975-892F-28FF45BCE1B6}|MVC.NetAssignment02.BusinessLogic\\MVC.NetAssignment02.BusinessLogic.csproj|c:\\users\\gl75\\onedrive\\m\u00E1y t\u00EDnh\\roookies\\mvc.netassignment02\\mvc.netassignment02.businesslogic\\ipersonbusinesslogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39063D29-FEEF-4975-892F-28FF45BCE1B6}|MVC.NetAssignment02.BusinessLogic\\MVC.NetAssignment02.BusinessLogic.csproj|solutionrelative:mvc.netassignment02.businesslogic\\ipersonbusinesslogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PersonBusinessLogic.cs",
+              "DocumentMoniker": "C:\\Users\\GL75\\OneDrive\\M\u00E1y t\u00EDnh\\Roookies\\MVC.NetAssignment02\\MVC.NetAssignment02.BusinessLogic\\PersonBusinessLogic.cs",
+              "RelativeDocumentMoniker": "MVC.NetAssignment02.BusinessLogic\\PersonBusinessLogic.cs",
+              "ToolTip": "C:\\Users\\GL75\\OneDrive\\M\u00E1y t\u00EDnh\\Roookies\\MVC.NetAssignment02\\MVC.NetAssignment02.BusinessLogic\\PersonBusinessLogic.cs",
+              "RelativeToolTip": "MVC.NetAssignment02.BusinessLogic\\PersonBusinessLogic.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAMwDAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T12:54:45.29Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\GL75\\OneDrive\\M\u00E1y t\u00EDnh\\Roookies\\MVC.NetAssignment02\\MVC.NetAssignment02.WebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MVC.NetAssignment02.WebApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\GL75\\OneDrive\\M\u00E1y t\u00EDnh\\Roookies\\MVC.NetAssignment02\\MVC.NetAssignment02.WebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MVC.NetAssignment02.WebApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABQAAAAAAAAAAAAYwCgAAACZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T19:07:39.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetMale.cshtml",
+              "DocumentMoniker": "C:\\Users\\GL75\\OneDrive\\M\u00E1y t\u00EDnh\\Roookies\\MVC.NetAssignment02\\MVC.NetAssignment02.WebApp\\Views\\Person\\GetMale.cshtml",
+              "RelativeDocumentMoniker": "MVC.NetAssignment02.WebApp\\Views\\Person\\GetMale.cshtml",
+              "ToolTip": "C:\\Users\\GL75\\OneDrive\\M\u00E1y t\u00EDnh\\Roookies\\MVC.NetAssignment02\\MVC.NetAssignment02.WebApp\\Views\\Person\\GetMale.cshtml",
+              "RelativeToolTip": "MVC.NetAssignment02.WebApp\\Views\\Person\\GetMale.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwDEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T18:45:41.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PersonRepository.cs",
+              "DocumentMoniker": "C:\\Users\\GL75\\OneDrive\\M\u00E1y t\u00EDnh\\Roookies\\MVC.NetAssignment02\\MVC.NetAssignment02.Model\\Reposiroty\\PersonRepository.cs",
+              "RelativeDocumentMoniker": "MVC.NetAssignment02.Model\\Reposiroty\\PersonRepository.cs",
+              "ToolTip": "C:\\Users\\GL75\\OneDrive\\M\u00E1y t\u00EDnh\\Roookies\\MVC.NetAssignment02\\MVC.NetAssignment02.Model\\Reposiroty\\PersonRepository.cs",
+              "RelativeToolTip": "MVC.NetAssignment02.Model\\Reposiroty\\PersonRepository.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAIA0wDgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T17:54:05.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IPersonBusinessLogic.cs",
+              "DocumentMoniker": "C:\\Users\\GL75\\OneDrive\\M\u00E1y t\u00EDnh\\Roookies\\MVC.NetAssignment02\\MVC.NetAssignment02.BusinessLogic\\IPersonBusinessLogic.cs",
+              "RelativeDocumentMoniker": "MVC.NetAssignment02.BusinessLogic\\IPersonBusinessLogic.cs",
+              "ToolTip": "C:\\Users\\GL75\\OneDrive\\M\u00E1y t\u00EDnh\\Roookies\\MVC.NetAssignment02\\MVC.NetAssignment02.BusinessLogic\\IPersonBusinessLogic.cs",
+              "RelativeToolTip": "MVC.NetAssignment02.BusinessLogic\\IPersonBusinessLogic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T17:46:45.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonController.cs",
+              "DocumentMoniker": "C:\\Users\\GL75\\OneDrive\\M\u00E1y t\u00EDnh\\Roookies\\MVC.NetAssignment02\\MVC.NetAssignment02.WebApp\\Controllers\\PersonController.cs",
+              "RelativeDocumentMoniker": "MVC.NetAssignment02.WebApp\\Controllers\\PersonController.cs",
+              "ToolTip": "C:\\Users\\GL75\\OneDrive\\M\u00E1y t\u00EDnh\\Roookies\\MVC.NetAssignment02\\MVC.NetAssignment02.WebApp\\Controllers\\PersonController.cs",
+              "RelativeToolTip": "MVC.NetAssignment02.WebApp\\Controllers\\PersonController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAQwCIAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T08:18:10.872Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\GL75\OneDrive\Máy tính\Roookies\MVC.NetAssignment02\MVC.NetAssignment02.BusinessLogic\bin\Debug\net8.0\MVC.NetAssignment02.BusinessLogic.deps.json
+C:\Users\GL75\OneDrive\Máy tính\Roookies\MVC.NetAssignment02\MVC.NetAssignment02.BusinessLogic\bin\Debug\net8.0\MVC.NetAssignment02.BusinessLogic.dll
+C:\Users\GL75\OneDrive\Máy tính\Roookies\MVC.NetAssignment02\MVC.NetAssignment02.BusinessLogic\bin\Debug\net8.0\MVC.NetAssignment02.BusinessLogic.pdb
+C:\Users\GL75\OneDrive\Máy tính\Roookies\MVC.NetAssignment02\MVC.NetAssignment02.BusinessLogic\bin\Debug\net8.0\MVC.NetAssignment02.Model.dll
+C:\Users\GL75\OneDrive\Máy tính\Roookies\MVC.NetAssignment02\MVC.NetAssignment02.BusinessLogic\bin\Debug\net8.0\MVC.NetAssignment02.Model.pdb
+C:\Users\GL75\OneDrive\Máy tính\Roookies\MVC.NetAssignment02\MVC.NetAssignment02.BusinessLogic\obj\Debug\net8.0\MVC.NetAssignment02.BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\GL75\OneDrive\Máy tính\Roookies\MVC.NetAssignment02\MVC.NetAssignment02.BusinessLogic\obj\Debug\net8.0\MVC.NetAssignment02.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GL75\OneDrive\Máy tính\Roookies\MVC.NetAssignment02\MVC.NetAssignment02.BusinessLogic\obj\Debug\net8.0\MVC.NetAssignment02.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\GL75\OneDrive\Máy tính\Roookies\MVC.NetAssignment02\MVC.NetAssignment02.BusinessLogic\obj\Debug\net8.0\MVC.NetAssignment02.BusinessLogic.AssemblyInfo.cs
+C:\Users\GL75\OneDrive\Máy tính\Roookies\MVC.NetAssignment02\MVC.NetAssignment02.BusinessLogic\obj\Debug\net8.0\MVC.NetAssignment02.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\GL75\OneDrive\Máy tính\Roookies\MVC.NetAssignment02\MVC.NetAssignment02.BusinessLogic\obj\Debug\net8.0\MVC.NetA.359C7E49.Up2Date
+C:\Users\GL75\OneDrive\Máy tính\Roookies\MVC.NetAssignment02\MVC.NetAssignment02.BusinessLogic\obj\Debug\net8.0\MVC.NetAssignment02.BusinessLogic.dll
+C:\Users\GL75\OneDrive\Máy tính\Roookies\MVC.NetAssignment02\MVC.NetAssignment02.BusinessLogic\obj\Debug\net8.0\refint\MVC.NetAssignment02.BusinessLogic.dll
+C:\Users\GL75\OneDrive\Máy tính\Roookies\MVC.NetAssignment02\MVC.NetAssignment02.BusinessLogic\obj\Debug\net8.0\MVC.NetAssignment02.BusinessLogic.pdb
+C:\Users\GL75\OneDrive\Máy tính\Roookies\MVC.NetAssignment02\MVC.NetAssignment02.BusinessLogic\obj\Debug\net8.0\ref\MVC.NetAssignment02.BusinessLogic.dll

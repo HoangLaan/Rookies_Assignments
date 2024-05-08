@@ -1,0 +1,46 @@
+﻿@using MVC.NetAssignment02.Model.Model
+@model PersonModel
+
+<table>
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Last Name</th>
+            <th>First Name</th>
+            <th>Gender</th>
+            <th>Date of Birth</th>
+            <th>Phone Number</th>
+            <th>Birth Place</th>
+            <th>Graduated</th>
+            <th>UPDATE</th>
+            <th>DELETE</th>
+
+        </tr>
+    </thead>
+    <tbody>
+            <tr>
+                <td>@Model.Id</td>
+                <td>@Model.LastName</td>
+                <td>@Model.FirstName</td>
+                <td>@Model.Gender</td>
+                <td>@Model.DateOfBirth.ToString("dd/MM/yyyy")</td>
+                <td>@Model.PhoneNumber</td>
+                <td>@Model.BirthPlace</td>
+                <td>@(Model.IsGraduated ? "Yes" : "No")</td>
+                <td> <a asp-controller="Person" asp-action="UpdatePerson" asp-route-id="@Model.Id">Update</a> </td>
+                <td> <a href="@Url.Action("DeletePerson", "Person")">Delete</a></td>
+            </tr>
+    </tbody>
+</table>
+<style>
+    table {
+        border-collapse: collapse;
+        width: 100%;
+    }
+
+    th, td {
+        padding: 8px;
+        text-align: left;
+        border-bottom: 1px solid #ddd;
+    }
+</style>

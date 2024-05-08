@@ -1,0 +1,30 @@
+﻿@using MVC.NetAssignment02.Model.Model
+@model List<string>
+
+<table>
+    <thead>
+        <tr>
+            <th>Full Name</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var fullName in Model)
+        {
+            <tr>
+                <td>@fullName</td>
+            </tr>
+        }
+    </tbody>
+</table>
+<style>
+    table {
+        border-collapse: collapse;
+        width: 100%;
+    }
+
+    th, td {
+        padding: 8px;
+        text-align: center;
+        border-bottom: 1px solid #ddd;
+    }
+</style>
