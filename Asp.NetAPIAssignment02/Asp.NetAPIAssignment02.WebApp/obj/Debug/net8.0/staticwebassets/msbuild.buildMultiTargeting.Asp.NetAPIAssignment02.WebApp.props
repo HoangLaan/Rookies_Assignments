@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Asp.NetAPIAssignment02.WebApp.props" />
+</Project>

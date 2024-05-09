@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "jvZM/eiS5k3maDb9knH0xmgxy7ZwSEjSunXoLyFmzT3TsPX+rd2MuIiNY+JBuKrNQFPfYxZs9xZK2TuFpsRMdA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\GL75\\OneDrive\\Máy tính\\Learning C#\\Asp.NetAPIAssignment02\\Asp.NetAPIAssignment02.Infrastructure\\Asp.NetAPIAssignment02.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GL75\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\GL75\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\GL75\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\GL75\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\GL75\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\GL75\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
