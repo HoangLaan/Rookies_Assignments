@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8QKKv6tx/zen4odDYfnFH6E1UB1l6WoCPV+ytQRObGorJZFyJwlOwCscUwcltwNHzL8zoG4QDYRpNOophzqz8g==",
+  "dgSpecHash": "5CzsIhWg9q7bv3bUjGZFCzGhce+cwPCg/lZG12lYQAEgjsWUXL6cVuDf9v8N4ncv27vk9X0tUZjpBDcXSiBD4A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\GL75\\OneDrive\\Máy tính\\Learning C#\\Asp.NetAPIAssignment02\\Asp.NetAPIAssignment02.WebApp\\Asp.NetAPIAssignment02.WebApp.csproj",
+  "projectFilePath": "C:\\Users\\GL75\\OneDrive\\Tài liệu\\GitHub\\Rookies_Assignments\\Asp.NetAPIAssignment02\\Asp.NetAPIAssignment02.WebApp\\Asp.NetAPIAssignment02.WebApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\GL75\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\GL75\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

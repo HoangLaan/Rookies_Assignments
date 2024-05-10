@@ -8,10 +8,9 @@ namespace Asp.NetAPIAssignment02.WebApp.Helper
         {
             if (obj is DateTime dob)
             {
-                // Compare the DOB with the current date
                 return dob <= DateTime.Now;
             }
-            return true; // Non-date values are considered valid
+            return true; 
         }
     }
 }

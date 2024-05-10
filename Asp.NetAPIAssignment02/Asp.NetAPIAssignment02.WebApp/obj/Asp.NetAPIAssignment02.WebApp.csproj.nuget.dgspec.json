@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\GL75\\OneDrive\\Máy tính\\Learning C#\\Asp.NetAPIAssignment02\\Asp.NetAPIAssignment02.WebApp\\Asp.NetAPIAssignment02.WebApp.csproj": {}
+    "C:\\Users\\GL75\\OneDrive\\Tài liệu\\GitHub\\Rookies_Assignments\\Asp.NetAPIAssignment02\\Asp.NetAPIAssignment02.WebApp\\Asp.NetAPIAssignment02.WebApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\GL75\\OneDrive\\Máy tính\\Learning C#\\Asp.NetAPIAssignment02\\Asp.NetAPIAssignment02.WebApp\\Asp.NetAPIAssignment02.WebApp.csproj": {
+    "C:\\Users\\GL75\\OneDrive\\Tài liệu\\GitHub\\Rookies_Assignments\\Asp.NetAPIAssignment02\\Asp.NetAPIAssignment02.WebApp\\Asp.NetAPIAssignment02.WebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\GL75\\OneDrive\\Máy tính\\Learning C#\\Asp.NetAPIAssignment02\\Asp.NetAPIAssignment02.WebApp\\Asp.NetAPIAssignment02.WebApp.csproj",
+        "projectUniqueName": "C:\\Users\\GL75\\OneDrive\\Tài liệu\\GitHub\\Rookies_Assignments\\Asp.NetAPIAssignment02\\Asp.NetAPIAssignment02.WebApp\\Asp.NetAPIAssignment02.WebApp.csproj",
         "projectName": "Asp.NetAPIAssignment02.WebApp",
-        "projectPath": "C:\\Users\\GL75\\OneDrive\\Máy tính\\Learning C#\\Asp.NetAPIAssignment02\\Asp.NetAPIAssignment02.WebApp\\Asp.NetAPIAssignment02.WebApp.csproj",
+        "projectPath": "C:\\Users\\GL75\\OneDrive\\Tài liệu\\GitHub\\Rookies_Assignments\\Asp.NetAPIAssignment02\\Asp.NetAPIAssignment02.WebApp\\Asp.NetAPIAssignment02.WebApp.csproj",
         "packagesPath": "C:\\Users\\GL75\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\GL75\\OneDrive\\Máy tính\\Learning C#\\Asp.NetAPIAssignment02\\Asp.NetAPIAssignment02.WebApp\\obj\\",
+        "outputPath": "C:\\Users\\GL75\\OneDrive\\Tài liệu\\GitHub\\Rookies_Assignments\\Asp.NetAPIAssignment02\\Asp.NetAPIAssignment02.WebApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\GL75\\AppData\\Roaming\\NuGet\\NuGet.Config",
