@@ -62,6 +62,8 @@ namespace Asp.NetAPIAssignment02.WebApp.Controllers
             return Ok();
         }
         [HttpGet("filter")]
+        [ProducesResponseType(200)]
+        [ProducesResponseType(404)]
         public IActionResult FilterPeople([FromQuery] string firstName  = "", [FromQuery] string lastName = "", [FromQuery] GenderType? gender = null, [FromQuery] string birthPlace = "")
         {
             return Ok(_personService.FilterPerson(firstName, lastName, gender, birthPlace));
