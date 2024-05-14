@@ -1,0 +1,16 @@
+C:\Users\GL75\Downloads\NashTechAssignment-main\NashTechAssignment-main\NashTechAssignmentMVCDay2\NashTechAssignmentDay5.Infrastructure\bin\Debug\net8.0\Data\MockData.json
+C:\Users\GL75\Downloads\NashTechAssignment-main\NashTechAssignment-main\NashTechAssignmentMVCDay2\NashTechAssignmentDay5.Infrastructure\bin\Debug\net8.0\NashTechAssignmentDay5.Infrastructure.deps.json
+C:\Users\GL75\Downloads\NashTechAssignment-main\NashTechAssignment-main\NashTechAssignmentMVCDay2\NashTechAssignmentDay5.Infrastructure\bin\Debug\net8.0\NashTechAssignmentDay5.Infrastructure.dll
+C:\Users\GL75\Downloads\NashTechAssignment-main\NashTechAssignment-main\NashTechAssignmentMVCDay2\NashTechAssignmentDay5.Infrastructure\bin\Debug\net8.0\NashTechAssignmentDay5.Infrastructure.pdb
+C:\Users\GL75\Downloads\NashTechAssignment-main\NashTechAssignment-main\NashTechAssignmentMVCDay2\NashTechAssignmentDay5.Infrastructure\bin\Debug\net8.0\NashTechAssignmentDay5.Domain.dll
+C:\Users\GL75\Downloads\NashTechAssignment-main\NashTechAssignment-main\NashTechAssignmentMVCDay2\NashTechAssignmentDay5.Infrastructure\bin\Debug\net8.0\NashTechAssignmentDay5.Domain.pdb
+C:\Users\GL75\Downloads\NashTechAssignment-main\NashTechAssignment-main\NashTechAssignmentMVCDay2\NashTechAssignmentDay5.Infrastructure\obj\Debug\net8.0\NashTechAssignmentDay5.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\GL75\Downloads\NashTechAssignment-main\NashTechAssignment-main\NashTechAssignmentMVCDay2\NashTechAssignmentDay5.Infrastructure\obj\Debug\net8.0\NashTechAssignmentDay5.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GL75\Downloads\NashTechAssignment-main\NashTechAssignment-main\NashTechAssignmentMVCDay2\NashTechAssignmentDay5.Infrastructure\obj\Debug\net8.0\NashTechAssignmentDay5.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\GL75\Downloads\NashTechAssignment-main\NashTechAssignment-main\NashTechAssignmentMVCDay2\NashTechAssignmentDay5.Infrastructure\obj\Debug\net8.0\NashTechAssignmentDay5.Infrastructure.AssemblyInfo.cs
+C:\Users\GL75\Downloads\NashTechAssignment-main\NashTechAssignment-main\NashTechAssignmentMVCDay2\NashTechAssignmentDay5.Infrastructure\obj\Debug\net8.0\NashTechAssignmentDay5.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\GL75\Downloads\NashTechAssignment-main\NashTechAssignment-main\NashTechAssignmentMVCDay2\NashTechAssignmentDay5.Infrastructure\obj\Debug\net8.0\NashTech.2300A2C0.Up2Date
+C:\Users\GL75\Downloads\NashTechAssignment-main\NashTechAssignment-main\NashTechAssignmentMVCDay2\NashTechAssignmentDay5.Infrastructure\obj\Debug\net8.0\NashTechAssignmentDay5.Infrastructure.dll
+C:\Users\GL75\Downloads\NashTechAssignment-main\NashTechAssignment-main\NashTechAssignmentMVCDay2\NashTechAssignmentDay5.Infrastructure\obj\Debug\net8.0\refint\NashTechAssignmentDay5.Infrastructure.dll
+C:\Users\GL75\Downloads\NashTechAssignment-main\NashTechAssignment-main\NashTechAssignmentMVCDay2\NashTechAssignmentDay5.Infrastructure\obj\Debug\net8.0\NashTechAssignmentDay5.Infrastructure.pdb
+C:\Users\GL75\Downloads\NashTechAssignment-main\NashTechAssignment-main\NashTechAssignmentMVCDay2\NashTechAssignmentDay5.Infrastructure\obj\Debug\net8.0\ref\NashTechAssignmentDay5.Infrastructure.dll

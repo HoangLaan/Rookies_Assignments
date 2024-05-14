@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Hotspots>
+  <Hotspot>
+    <Assembly>NashTechAssignmentDay5.Web</Assembly>
+    <Class>AspNetCoreGeneratedDocument.Areas_NashTech_Views_Rookies_Create</Class>
+    <MethodName>&lt;ExecuteAsync()</MethodName>
+    <ShortName />
+    <Line>14</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>46</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>NashTechAssignmentDay5.Web</Assembly>
+    <Class>AspNetCoreGeneratedDocument.Areas_NashTech_Views_Rookies_Edit</Class>
+    <MethodName>&lt;ExecuteAsync()</MethodName>
+    <ShortName />
+    <Line>14</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>42</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+</Hotspots>
