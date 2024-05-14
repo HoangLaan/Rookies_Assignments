@@ -40,16 +40,20 @@ namespace EFCoreAssignment02.WebApp.Services
         public async Task<Employees> AddEmployee(EmployeeRequest employeeRequest)
         {
             var employee = _mapper.Map<Employees>(employeeRequest);
-            //employee.Department = await _departmentRepository.GetById(departmentId);
+            employee.Department = await _departmentRepository.GetById(employeeRequest.DepartmentId);
+            var project = await _projectRepository.GetById(employeeRequest.ProjectId);
+            
 
-            //var projectEmployee = new Project_Employee()
-            //{
-            //    Employee = employee,
-            //    Project = project
-            //};
-            //await _projectEmployeeRepository.AddEntity(projectEmployee);
-
-            return await _employeeRepository.AddEntity(employee);
+            var projectEmployee = new Project_Employee()
+            {
+                EmployeeId = employee.Id,
+                ProjectId = project.Id,
+                Employee = employee,
+                Project = project
+            };
+            await _projectEmployeeRepository.AddEntity(projectEmployee);
+            await _employeeRepository.AddEntity(employee);
+            return employee;
         }
 
 

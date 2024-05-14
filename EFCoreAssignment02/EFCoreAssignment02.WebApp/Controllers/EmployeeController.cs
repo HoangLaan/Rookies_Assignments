@@ -58,14 +58,14 @@ namespace EFCoreAssignment02.WebApp.Controllers
         [HttpPost]
         [ProducesResponseType(200, Type = typeof(IEnumerable<Employees>))]
         [ProducesResponseType(400)]
-        public async Task<ActionResult<Task<Employees>>> AddEmployee([FromBody] EmployeeRequest employee)
+        public async Task<ActionResult<Task<Employees>>> AddEmployee([FromBody] EmployeeRequest employeeRequest)
         {
             if (!ModelState.IsValid)
             {
                 return BadRequest(ModelState);
             }
-            await _employeeService.AddEmployee(employee);
-            return Ok();
+            var employee = await _employeeService.AddEmployee(employeeRequest);
+            return Ok(employee);
         }
 
         [HttpDelete("{id}")]

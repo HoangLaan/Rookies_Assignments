@@ -14,5 +14,6 @@ namespace EFCoreAssignment02.Infrastructure.ModelDto
         public DateTime JoinedDated { get; set; }
         public double Salary { get; set; }
         public string Department { get; set; } = string.Empty;
+        public string Project {  get; set; } = string.Empty;
     }
 }

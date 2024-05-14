@@ -12,5 +12,6 @@ namespace EFCoreAssignment02.Infrastructure.ModelDto
         public string Name { get; set; } = string.Empty;
         public Guid DepartmentId { get; set; }
         public DateTime JoinedDated { get; set; }
+        public Guid ProjectId { get; set; }
     }
 }
