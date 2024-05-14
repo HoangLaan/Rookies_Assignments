@@ -1,0 +1,405 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\GL75\\OneDrive\\M\u00E1y t\u00EDnh\\Learning C#\\EFCoreAssignment02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB412E8E-A1CD-4668-A59E-730048F19C18}|EFCoreAssignment02.WebApp\\EFCoreAssignment02.WebApp.csproj|c:\\users\\gl75\\onedrive\\m\u00E1y t\u00EDnh\\learning c#\\efcoreassignment02\\efcoreassignment02.webapp\\services\\salaryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB412E8E-A1CD-4668-A59E-730048F19C18}|EFCoreAssignment02.WebApp\\EFCoreAssignment02.WebApp.csproj|solutionrelative:efcoreassignment02.webapp\\services\\salaryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB412E8E-A1CD-4668-A59E-730048F19C18}|EFCoreAssignment02.WebApp\\EFCoreAssignment02.WebApp.csproj|c:\\users\\gl75\\onedrive\\m\u00E1y t\u00EDnh\\learning c#\\efcoreassignment02\\efcoreassignment02.webapp\\services\\projectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB412E8E-A1CD-4668-A59E-730048F19C18}|EFCoreAssignment02.WebApp\\EFCoreAssignment02.WebApp.csproj|solutionrelative:efcoreassignment02.webapp\\services\\projectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A6929E-0AF0-467C-914B-5669B378F4CA}|EFCoreAssignment02.Infrastructure\\EFCoreAssignment02.Infrastructure.csproj|c:\\users\\gl75\\onedrive\\m\u00E1y t\u00EDnh\\learning c#\\efcoreassignment02\\efcoreassignment02.infrastructure\\models\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A6929E-0AF0-467C-914B-5669B378F4CA}|EFCoreAssignment02.Infrastructure\\EFCoreAssignment02.Infrastructure.csproj|solutionrelative:efcoreassignment02.infrastructure\\models\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB412E8E-A1CD-4668-A59E-730048F19C18}|EFCoreAssignment02.WebApp\\EFCoreAssignment02.WebApp.csproj|c:\\users\\gl75\\onedrive\\m\u00E1y t\u00EDnh\\learning c#\\efcoreassignment02\\efcoreassignment02.webapp\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB412E8E-A1CD-4668-A59E-730048F19C18}|EFCoreAssignment02.WebApp\\EFCoreAssignment02.WebApp.csproj|solutionrelative:efcoreassignment02.webapp\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB412E8E-A1CD-4668-A59E-730048F19C18}|EFCoreAssignment02.WebApp\\EFCoreAssignment02.WebApp.csproj|c:\\users\\gl75\\onedrive\\m\u00E1y t\u00EDnh\\learning c#\\efcoreassignment02\\efcoreassignment02.webapp\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB412E8E-A1CD-4668-A59E-730048F19C18}|EFCoreAssignment02.WebApp\\EFCoreAssignment02.WebApp.csproj|solutionrelative:efcoreassignment02.webapp\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A6929E-0AF0-467C-914B-5669B378F4CA}|EFCoreAssignment02.Infrastructure\\EFCoreAssignment02.Infrastructure.csproj|c:\\users\\gl75\\onedrive\\m\u00E1y t\u00EDnh\\learning c#\\efcoreassignment02\\efcoreassignment02.infrastructure\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A6929E-0AF0-467C-914B-5669B378F4CA}|EFCoreAssignment02.Infrastructure\\EFCoreAssignment02.Infrastructure.csproj|solutionrelative:efcoreassignment02.infrastructure\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A6929E-0AF0-467C-914B-5669B378F4CA}|EFCoreAssignment02.Infrastructure\\EFCoreAssignment02.Infrastructure.csproj|c:\\users\\gl75\\onedrive\\m\u00E1y t\u00EDnh\\learning c#\\efcoreassignment02\\efcoreassignment02.infrastructure\\database\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A6929E-0AF0-467C-914B-5669B378F4CA}|EFCoreAssignment02.Infrastructure\\EFCoreAssignment02.Infrastructure.csproj|solutionrelative:efcoreassignment02.infrastructure\\database\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A6929E-0AF0-467C-914B-5669B378F4CA}|EFCoreAssignment02.Infrastructure\\EFCoreAssignment02.Infrastructure.csproj|c:\\users\\gl75\\onedrive\\m\u00E1y t\u00EDnh\\learning c#\\efcoreassignment02\\efcoreassignment02.infrastructure\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A6929E-0AF0-467C-914B-5669B378F4CA}|EFCoreAssignment02.Infrastructure\\EFCoreAssignment02.Infrastructure.csproj|solutionrelative:efcoreassignment02.infrastructure\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A6929E-0AF0-467C-914B-5669B378F4CA}|EFCoreAssignment02.Infrastructure\\EFCoreAssignment02.Infrastructure.csproj|c:\\users\\gl75\\onedrive\\m\u00E1y t\u00EDnh\\learning c#\\efcoreassignment02\\efcoreassignment02.infrastructure\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A6929E-0AF0-467C-914B-5669B378F4CA}|EFCoreAssignment02.Infrastructure\\EFCoreAssignment02.Infrastructure.csproj|solutionrelative:efcoreassignment02.infrastructure\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB412E8E-A1CD-4668-A59E-730048F19C18}|EFCoreAssignment02.WebApp\\EFCoreAssignment02.WebApp.csproj|c:\\users\\gl75\\onedrive\\m\u00E1y t\u00EDnh\\learning c#\\efcoreassignment02\\efcoreassignment02.webapp\\services\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB412E8E-A1CD-4668-A59E-730048F19C18}|EFCoreAssignment02.WebApp\\EFCoreAssignment02.WebApp.csproj|solutionrelative:efcoreassignment02.webapp\\services\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A6929E-0AF0-467C-914B-5669B378F4CA}|EFCoreAssignment02.Infrastructure\\EFCoreAssignment02.Infrastructure.csproj|c:\\users\\gl75\\onedrive\\m\u00E1y t\u00EDnh\\learning c#\\efcoreassignment02\\efcoreassignment02.infrastructure\\models\\salaries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A6929E-0AF0-467C-914B-5669B378F4CA}|EFCoreAssignment02.Infrastructure\\EFCoreAssignment02.Infrastructure.csproj|solutionrelative:efcoreassignment02.infrastructure\\models\\salaries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB412E8E-A1CD-4668-A59E-730048F19C18}|EFCoreAssignment02.WebApp\\EFCoreAssignment02.WebApp.csproj|c:\\users\\gl75\\onedrive\\m\u00E1y t\u00EDnh\\learning c#\\efcoreassignment02\\efcoreassignment02.webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB412E8E-A1CD-4668-A59E-730048F19C18}|EFCoreAssignment02.WebApp\\EFCoreAssignment02.WebApp.csproj|solutionrelative:efcoreassignment02.webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A6929E-0AF0-467C-914B-5669B378F4CA}|EFCoreAssignment02.Infrastructure\\EFCoreAssignment02.Infrastructure.csproj|c:\\users\\gl75\\onedrive\\m\u00E1y t\u00EDnh\\learning c#\\efcoreassignment02\\efcoreassignment02.infrastructure\\interfaces\\iprojectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A6929E-0AF0-467C-914B-5669B378F4CA}|EFCoreAssignment02.Infrastructure\\EFCoreAssignment02.Infrastructure.csproj|solutionrelative:efcoreassignment02.infrastructure\\interfaces\\iprojectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A6929E-0AF0-467C-914B-5669B378F4CA}|EFCoreAssignment02.Infrastructure\\EFCoreAssignment02.Infrastructure.csproj|c:\\users\\gl75\\onedrive\\m\u00E1y t\u00EDnh\\learning c#\\efcoreassignment02\\efcoreassignment02.infrastructure\\modeldto\\projectresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A6929E-0AF0-467C-914B-5669B378F4CA}|EFCoreAssignment02.Infrastructure\\EFCoreAssignment02.Infrastructure.csproj|solutionrelative:efcoreassignment02.infrastructure\\modeldto\\projectresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A6929E-0AF0-467C-914B-5669B378F4CA}|EFCoreAssignment02.Infrastructure\\EFCoreAssignment02.Infrastructure.csproj|c:\\users\\gl75\\onedrive\\m\u00E1y t\u00EDnh\\learning c#\\efcoreassignment02\\efcoreassignment02.infrastructure\\interfaces\\idepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A6929E-0AF0-467C-914B-5669B378F4CA}|EFCoreAssignment02.Infrastructure\\EFCoreAssignment02.Infrastructure.csproj|solutionrelative:efcoreassignment02.infrastructure\\interfaces\\idepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A6929E-0AF0-467C-914B-5669B378F4CA}|EFCoreAssignment02.Infrastructure\\EFCoreAssignment02.Infrastructure.csproj|c:\\users\\gl75\\onedrive\\m\u00E1y t\u00EDnh\\learning c#\\efcoreassignment02\\efcoreassignment02.infrastructure\\modeldto\\departmentsrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A6929E-0AF0-467C-914B-5669B378F4CA}|EFCoreAssignment02.Infrastructure\\EFCoreAssignment02.Infrastructure.csproj|solutionrelative:efcoreassignment02.infrastructure\\modeldto\\departmentsrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A6929E-0AF0-467C-914B-5669B378F4CA}|EFCoreAssignment02.Infrastructure\\EFCoreAssignment02.Infrastructure.csproj|c:\\users\\gl75\\onedrive\\m\u00E1y t\u00EDnh\\learning c#\\efcoreassignment02\\efcoreassignment02.infrastructure\\modeldto\\departmentresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A6929E-0AF0-467C-914B-5669B378F4CA}|EFCoreAssignment02.Infrastructure\\EFCoreAssignment02.Infrastructure.csproj|solutionrelative:efcoreassignment02.infrastructure\\modeldto\\departmentresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A6929E-0AF0-467C-914B-5669B378F4CA}|EFCoreAssignment02.Infrastructure\\EFCoreAssignment02.Infrastructure.csproj|c:\\users\\gl75\\onedrive\\m\u00E1y t\u00EDnh\\learning c#\\efcoreassignment02\\efcoreassignment02.infrastructure\\modeldto\\salaryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A6929E-0AF0-467C-914B-5669B378F4CA}|EFCoreAssignment02.Infrastructure\\EFCoreAssignment02.Infrastructure.csproj|solutionrelative:efcoreassignment02.infrastructure\\modeldto\\salaryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A6929E-0AF0-467C-914B-5669B378F4CA}|EFCoreAssignment02.Infrastructure\\EFCoreAssignment02.Infrastructure.csproj|c:\\users\\gl75\\onedrive\\m\u00E1y t\u00EDnh\\learning c#\\efcoreassignment02\\efcoreassignment02.infrastructure\\migrations\\20240513200439_v2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A6929E-0AF0-467C-914B-5669B378F4CA}|EFCoreAssignment02.Infrastructure\\EFCoreAssignment02.Infrastructure.csproj|solutionrelative:efcoreassignment02.infrastructure\\migrations\\20240513200439_v2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A6929E-0AF0-467C-914B-5669B378F4CA}|EFCoreAssignment02.Infrastructure\\EFCoreAssignment02.Infrastructure.csproj|c:\\users\\gl75\\onedrive\\m\u00E1y t\u00EDnh\\learning c#\\efcoreassignment02\\efcoreassignment02.infrastructure\\migrations\\20240513200330_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A6929E-0AF0-467C-914B-5669B378F4CA}|EFCoreAssignment02.Infrastructure\\EFCoreAssignment02.Infrastructure.csproj|solutionrelative:efcoreassignment02.infrastructure\\migrations\\20240513200330_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A6929E-0AF0-467C-914B-5669B378F4CA}|EFCoreAssignment02.Infrastructure\\EFCoreAssignment02.Infrastructure.csproj|c:\\users\\gl75\\onedrive\\m\u00E1y t\u00EDnh\\learning c#\\efcoreassignment02\\efcoreassignment02.infrastructure\\migrations\\20240514014712_v4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A6929E-0AF0-467C-914B-5669B378F4CA}|EFCoreAssignment02.Infrastructure\\EFCoreAssignment02.Infrastructure.csproj|solutionrelative:efcoreassignment02.infrastructure\\migrations\\20240514014712_v4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A6929E-0AF0-467C-914B-5669B378F4CA}|EFCoreAssignment02.Infrastructure\\EFCoreAssignment02.Infrastructure.csproj|c:\\users\\gl75\\onedrive\\m\u00E1y t\u00EDnh\\learning c#\\efcoreassignment02\\efcoreassignment02.infrastructure\\migrations\\20240514012818_v3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A6929E-0AF0-467C-914B-5669B378F4CA}|EFCoreAssignment02.Infrastructure\\EFCoreAssignment02.Infrastructure.csproj|solutionrelative:efcoreassignment02.infrastructure\\migrations\\20240514012818_v3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 309,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProjectService.cs",
+              "DocumentMoniker": "C:\\Users\\GL75\\OneDrive\\M\u00E1y t\u00EDnh\\Learning C#\\EFCoreAssignment02\\EFCoreAssignment02.WebApp\\Services\\ProjectService.cs",
+              "RelativeDocumentMoniker": "EFCoreAssignment02.WebApp\\Services\\ProjectService.cs",
+              "ToolTip": "C:\\Users\\GL75\\OneDrive\\M\u00E1y t\u00EDnh\\Learning C#\\EFCoreAssignment02\\EFCoreAssignment02.WebApp\\Services\\ProjectService.cs",
+              "RelativeToolTip": "EFCoreAssignment02.WebApp\\Services\\ProjectService.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T03:51:46.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\GL75\\OneDrive\\M\u00E1y t\u00EDnh\\Learning C#\\EFCoreAssignment02\\EFCoreAssignment02.Infrastructure\\Database\\DataContext.cs",
+              "RelativeDocumentMoniker": "EFCoreAssignment02.Infrastructure\\Database\\DataContext.cs",
+              "ToolTip": "C:\\Users\\GL75\\OneDrive\\M\u00E1y t\u00EDnh\\Learning C#\\EFCoreAssignment02\\EFCoreAssignment02.Infrastructure\\Database\\DataContext.cs",
+              "RelativeToolTip": "EFCoreAssignment02.Infrastructure\\Database\\DataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T03:48:37.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employees.cs",
+              "DocumentMoniker": "C:\\Users\\GL75\\OneDrive\\M\u00E1y t\u00EDnh\\Learning C#\\EFCoreAssignment02\\EFCoreAssignment02.Infrastructure\\Models\\Employees.cs",
+              "RelativeDocumentMoniker": "EFCoreAssignment02.Infrastructure\\Models\\Employees.cs",
+              "ToolTip": "C:\\Users\\GL75\\OneDrive\\M\u00E1y t\u00EDnh\\Learning C#\\EFCoreAssignment02\\EFCoreAssignment02.Infrastructure\\Models\\Employees.cs",
+              "RelativeToolTip": "EFCoreAssignment02.Infrastructure\\Models\\Employees.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T03:27:37.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\GL75\\OneDrive\\M\u00E1y t\u00EDnh\\Learning C#\\EFCoreAssignment02\\EFCoreAssignment02.WebApp\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "EFCoreAssignment02.WebApp\\Services\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\GL75\\OneDrive\\M\u00E1y t\u00EDnh\\Learning C#\\EFCoreAssignment02\\EFCoreAssignment02.WebApp\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "EFCoreAssignment02.WebApp\\Services\\EmployeeService.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAADwv2QAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T18:30:31.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\GL75\\OneDrive\\M\u00E1y t\u00EDnh\\Learning C#\\EFCoreAssignment02\\EFCoreAssignment02.WebApp\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "EFCoreAssignment02.WebApp\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\GL75\\OneDrive\\M\u00E1y t\u00EDnh\\Learning C#\\EFCoreAssignment02\\EFCoreAssignment02.WebApp\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "EFCoreAssignment02.WebApp\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAGgAAAAAAAAAAAAcwHYAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T18:28:47.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\GL75\\OneDrive\\M\u00E1y t\u00EDnh\\Learning C#\\EFCoreAssignment02\\EFCoreAssignment02.Infrastructure\\Interfaces\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "EFCoreAssignment02.Infrastructure\\Interfaces\\IEmployeeService.cs",
+              "ToolTip": "C:\\Users\\GL75\\OneDrive\\M\u00E1y t\u00EDnh\\Learning C#\\EFCoreAssignment02\\EFCoreAssignment02.Infrastructure\\Interfaces\\IEmployeeService.cs",
+              "RelativeToolTip": "EFCoreAssignment02.Infrastructure\\Interfaces\\IEmployeeService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T20:21:52.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IDepartmentService.cs",
+              "DocumentMoniker": "C:\\Users\\GL75\\OneDrive\\M\u00E1y t\u00EDnh\\Learning C#\\EFCoreAssignment02\\EFCoreAssignment02.Infrastructure\\Interfaces\\IDepartmentService.cs",
+              "RelativeDocumentMoniker": "EFCoreAssignment02.Infrastructure\\Interfaces\\IDepartmentService.cs",
+              "ToolTip": "C:\\Users\\GL75\\OneDrive\\M\u00E1y t\u00EDnh\\Learning C#\\EFCoreAssignment02\\EFCoreAssignment02.Infrastructure\\Interfaces\\IDepartmentService.cs",
+              "RelativeToolTip": "EFCoreAssignment02.Infrastructure\\Interfaces\\IDepartmentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T12:11:29.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DepartmentService.cs",
+              "DocumentMoniker": "C:\\Users\\GL75\\OneDrive\\M\u00E1y t\u00EDnh\\Learning C#\\EFCoreAssignment02\\EFCoreAssignment02.WebApp\\Services\\DepartmentService.cs",
+              "RelativeDocumentMoniker": "EFCoreAssignment02.WebApp\\Services\\DepartmentService.cs",
+              "ToolTip": "C:\\Users\\GL75\\OneDrive\\M\u00E1y t\u00EDnh\\Learning C#\\EFCoreAssignment02\\EFCoreAssignment02.WebApp\\Services\\DepartmentService.cs",
+              "RelativeToolTip": "EFCoreAssignment02.WebApp\\Services\\DepartmentService.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowCYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T12:21:36.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\GL75\\OneDrive\\M\u00E1y t\u00EDnh\\Learning C#\\EFCoreAssignment02\\EFCoreAssignment02.Infrastructure\\Interfaces\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "EFCoreAssignment02.Infrastructure\\Interfaces\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\GL75\\OneDrive\\M\u00E1y t\u00EDnh\\Learning C#\\EFCoreAssignment02\\EFCoreAssignment02.Infrastructure\\Interfaces\\IGenericRepository.cs",
+              "RelativeToolTip": "EFCoreAssignment02.Infrastructure\\Interfaces\\IGenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T12:24:10.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SalaryService.cs",
+              "DocumentMoniker": "C:\\Users\\GL75\\OneDrive\\M\u00E1y t\u00EDnh\\Learning C#\\EFCoreAssignment02\\EFCoreAssignment02.WebApp\\Services\\SalaryService.cs",
+              "RelativeDocumentMoniker": "EFCoreAssignment02.WebApp\\Services\\SalaryService.cs",
+              "ToolTip": "C:\\Users\\GL75\\OneDrive\\M\u00E1y t\u00EDnh\\Learning C#\\EFCoreAssignment02\\EFCoreAssignment02.WebApp\\Services\\SalaryService.cs",
+              "RelativeToolTip": "EFCoreAssignment02.WebApp\\Services\\SalaryService.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T19:28:50.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Salaries.cs",
+              "DocumentMoniker": "C:\\Users\\GL75\\OneDrive\\M\u00E1y t\u00EDnh\\Learning C#\\EFCoreAssignment02\\EFCoreAssignment02.Infrastructure\\Models\\Salaries.cs",
+              "RelativeDocumentMoniker": "EFCoreAssignment02.Infrastructure\\Models\\Salaries.cs",
+              "ToolTip": "C:\\Users\\GL75\\OneDrive\\M\u00E1y t\u00EDnh\\Learning C#\\EFCoreAssignment02\\EFCoreAssignment02.Infrastructure\\Models\\Salaries.cs",
+              "RelativeToolTip": "EFCoreAssignment02.Infrastructure\\Models\\Salaries.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T19:24:42.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\GL75\\OneDrive\\M\u00E1y t\u00EDnh\\Learning C#\\EFCoreAssignment02\\EFCoreAssignment02.Infrastructure\\Repository\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "EFCoreAssignment02.Infrastructure\\Repository\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\GL75\\OneDrive\\M\u00E1y t\u00EDnh\\Learning C#\\EFCoreAssignment02\\EFCoreAssignment02.Infrastructure\\Repository\\GenericRepository.cs",
+              "RelativeToolTip": "EFCoreAssignment02.Infrastructure\\Repository\\GenericRepository.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAIwDkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T12:24:06.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\GL75\\OneDrive\\M\u00E1y t\u00EDnh\\Learning C#\\EFCoreAssignment02\\EFCoreAssignment02.WebApp\\Program.cs",
+              "RelativeDocumentMoniker": "EFCoreAssignment02.WebApp\\Program.cs",
+              "ToolTip": "C:\\Users\\GL75\\OneDrive\\M\u00E1y t\u00EDnh\\Learning C#\\EFCoreAssignment02\\EFCoreAssignment02.WebApp\\Program.cs",
+              "RelativeToolTip": "EFCoreAssignment02.WebApp\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T18:30:40.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IProjectService.cs",
+              "DocumentMoniker": "C:\\Users\\GL75\\OneDrive\\M\u00E1y t\u00EDnh\\Learning C#\\EFCoreAssignment02\\EFCoreAssignment02.Infrastructure\\Interfaces\\IProjectService.cs",
+              "RelativeDocumentMoniker": "EFCoreAssignment02.Infrastructure\\Interfaces\\IProjectService.cs",
+              "ToolTip": "C:\\Users\\GL75\\OneDrive\\M\u00E1y t\u00EDnh\\Learning C#\\EFCoreAssignment02\\EFCoreAssignment02.Infrastructure\\Interfaces\\IProjectService.cs",
+              "RelativeToolTip": "EFCoreAssignment02.Infrastructure\\Interfaces\\IProjectService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T19:50:40.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProjectResponse.cs",
+              "DocumentMoniker": "C:\\Users\\GL75\\OneDrive\\M\u00E1y t\u00EDnh\\Learning C#\\EFCoreAssignment02\\EFCoreAssignment02.Infrastructure\\ModelDto\\ProjectResponse.cs",
+              "RelativeDocumentMoniker": "EFCoreAssignment02.Infrastructure\\ModelDto\\ProjectResponse.cs",
+              "ToolTip": "C:\\Users\\GL75\\OneDrive\\M\u00E1y t\u00EDnh\\Learning C#\\EFCoreAssignment02\\EFCoreAssignment02.Infrastructure\\ModelDto\\ProjectResponse.cs",
+              "RelativeToolTip": "EFCoreAssignment02.Infrastructure\\ModelDto\\ProjectResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T19:39:40.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DepartmentsRequest.cs",
+              "DocumentMoniker": "C:\\Users\\GL75\\OneDrive\\M\u00E1y t\u00EDnh\\Learning C#\\EFCoreAssignment02\\EFCoreAssignment02.Infrastructure\\ModelDto\\DepartmentsRequest.cs",
+              "RelativeDocumentMoniker": "EFCoreAssignment02.Infrastructure\\ModelDto\\DepartmentsRequest.cs",
+              "ToolTip": "C:\\Users\\GL75\\OneDrive\\M\u00E1y t\u00EDnh\\Learning C#\\EFCoreAssignment02\\EFCoreAssignment02.Infrastructure\\ModelDto\\DepartmentsRequest.cs",
+              "RelativeToolTip": "EFCoreAssignment02.Infrastructure\\ModelDto\\DepartmentsRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T19:40:16.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DepartmentResponse.cs",
+              "DocumentMoniker": "C:\\Users\\GL75\\OneDrive\\M\u00E1y t\u00EDnh\\Learning C#\\EFCoreAssignment02\\EFCoreAssignment02.Infrastructure\\ModelDto\\DepartmentResponse.cs",
+              "RelativeDocumentMoniker": "EFCoreAssignment02.Infrastructure\\ModelDto\\DepartmentResponse.cs",
+              "ToolTip": "C:\\Users\\GL75\\OneDrive\\M\u00E1y t\u00EDnh\\Learning C#\\EFCoreAssignment02\\EFCoreAssignment02.Infrastructure\\ModelDto\\DepartmentResponse.cs",
+              "RelativeToolTip": "EFCoreAssignment02.Infrastructure\\ModelDto\\DepartmentResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:22:27.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SalaryResponse.cs",
+              "DocumentMoniker": "C:\\Users\\GL75\\OneDrive\\M\u00E1y t\u00EDnh\\Learning C#\\EFCoreAssignment02\\EFCoreAssignment02.Infrastructure\\ModelDto\\SalaryResponse.cs",
+              "RelativeDocumentMoniker": "EFCoreAssignment02.Infrastructure\\ModelDto\\SalaryResponse.cs",
+              "ToolTip": "C:\\Users\\GL75\\OneDrive\\M\u00E1y t\u00EDnh\\Learning C#\\EFCoreAssignment02\\EFCoreAssignment02.Infrastructure\\ModelDto\\SalaryResponse.cs",
+              "RelativeToolTip": "EFCoreAssignment02.Infrastructure\\ModelDto\\SalaryResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T19:16:01.763Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 91,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20240514014712_v4.cs",
+              "DocumentMoniker": "C:\\Users\\GL75\\OneDrive\\M\u00E1y t\u00EDnh\\Learning C#\\EFCoreAssignment02\\EFCoreAssignment02.Infrastructure\\Migrations\\20240514014712_v4.cs",
+              "RelativeDocumentMoniker": "EFCoreAssignment02.Infrastructure\\Migrations\\20240514014712_v4.cs",
+              "ToolTip": "C:\\Users\\GL75\\OneDrive\\M\u00E1y t\u00EDnh\\Learning C#\\EFCoreAssignment02\\EFCoreAssignment02.Infrastructure\\Migrations\\20240514014712_v4.cs",
+              "RelativeToolTip": "EFCoreAssignment02.Infrastructure\\Migrations\\20240514014712_v4.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T01:47:12.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20240514012818_v3.cs",
+              "DocumentMoniker": "C:\\Users\\GL75\\OneDrive\\M\u00E1y t\u00EDnh\\Learning C#\\EFCoreAssignment02\\EFCoreAssignment02.Infrastructure\\Migrations\\20240514012818_v3.cs",
+              "RelativeDocumentMoniker": "EFCoreAssignment02.Infrastructure\\Migrations\\20240514012818_v3.cs",
+              "ToolTip": "C:\\Users\\GL75\\OneDrive\\M\u00E1y t\u00EDnh\\Learning C#\\EFCoreAssignment02\\EFCoreAssignment02.Infrastructure\\Migrations\\20240514012818_v3.cs",
+              "RelativeToolTip": "EFCoreAssignment02.Infrastructure\\Migrations\\20240514012818_v3.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T01:28:18.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20240513200439_v2.cs",
+              "DocumentMoniker": "C:\\Users\\GL75\\OneDrive\\M\u00E1y t\u00EDnh\\Learning C#\\EFCoreAssignment02\\EFCoreAssignment02.Infrastructure\\Migrations\\20240513200439_v2.cs",
+              "RelativeDocumentMoniker": "EFCoreAssignment02.Infrastructure\\Migrations\\20240513200439_v2.cs",
+              "ToolTip": "C:\\Users\\GL75\\OneDrive\\M\u00E1y t\u00EDnh\\Learning C#\\EFCoreAssignment02\\EFCoreAssignment02.Infrastructure\\Migrations\\20240513200439_v2.cs",
+              "RelativeToolTip": "EFCoreAssignment02.Infrastructure\\Migrations\\20240513200439_v2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T20:04:39.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20240513200330_v1.cs",
+              "DocumentMoniker": "C:\\Users\\GL75\\OneDrive\\M\u00E1y t\u00EDnh\\Learning C#\\EFCoreAssignment02\\EFCoreAssignment02.Infrastructure\\Migrations\\20240513200330_v1.cs",
+              "RelativeDocumentMoniker": "EFCoreAssignment02.Infrastructure\\Migrations\\20240513200330_v1.cs",
+              "ToolTip": "C:\\Users\\GL75\\OneDrive\\M\u00E1y t\u00EDnh\\Learning C#\\EFCoreAssignment02\\EFCoreAssignment02.Infrastructure\\Migrations\\20240513200330_v1.cs",
+              "RelativeToolTip": "EFCoreAssignment02.Infrastructure\\Migrations\\20240513200330_v1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T20:03:30.509Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

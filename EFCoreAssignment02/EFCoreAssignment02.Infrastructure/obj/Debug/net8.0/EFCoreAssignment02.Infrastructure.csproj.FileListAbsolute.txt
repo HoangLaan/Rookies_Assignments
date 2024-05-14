@@ -1,0 +1,14 @@
+C:\Users\GL75\OneDrive\Máy tính\Learning C#\EFCoreAssignment02\EFCoreAssignment02.Infrastructure\obj\Debug\net8.0\EFCoreAssignment02.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\GL75\OneDrive\Máy tính\Learning C#\EFCoreAssignment02\EFCoreAssignment02.Infrastructure\obj\Debug\net8.0\EFCoreAssignment02.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GL75\OneDrive\Máy tính\Learning C#\EFCoreAssignment02\EFCoreAssignment02.Infrastructure\obj\Debug\net8.0\EFCoreAssignment02.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\GL75\OneDrive\Máy tính\Learning C#\EFCoreAssignment02\EFCoreAssignment02.Infrastructure\obj\Debug\net8.0\EFCoreAssignment02.Infrastructure.AssemblyInfo.cs
+C:\Users\GL75\OneDrive\Máy tính\Learning C#\EFCoreAssignment02\EFCoreAssignment02.Infrastructure\obj\Debug\net8.0\EFCoreAssignment02.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\GL75\OneDrive\Máy tính\Learning C#\EFCoreAssignment02\EFCoreAssignment02.Infrastructure\bin\Debug\net8.0\EFCoreAssignment02.Infrastructure.deps.json
+C:\Users\GL75\OneDrive\Máy tính\Learning C#\EFCoreAssignment02\EFCoreAssignment02.Infrastructure\bin\Debug\net8.0\EFCoreAssignment02.Infrastructure.dll
+C:\Users\GL75\OneDrive\Máy tính\Learning C#\EFCoreAssignment02\EFCoreAssignment02.Infrastructure\bin\Debug\net8.0\EFCoreAssignment02.Infrastructure.pdb
+C:\Users\GL75\OneDrive\Máy tính\Learning C#\EFCoreAssignment02\EFCoreAssignment02.Infrastructure\obj\Debug\net8.0\EFCoreAssignment02.Infrastructure.dll
+C:\Users\GL75\OneDrive\Máy tính\Learning C#\EFCoreAssignment02\EFCoreAssignment02.Infrastructure\obj\Debug\net8.0\refint\EFCoreAssignment02.Infrastructure.dll
+C:\Users\GL75\OneDrive\Máy tính\Learning C#\EFCoreAssignment02\EFCoreAssignment02.Infrastructure\obj\Debug\net8.0\EFCoreAssignment02.Infrastructure.pdb
+C:\Users\GL75\OneDrive\Máy tính\Learning C#\EFCoreAssignment02\EFCoreAssignment02.Infrastructure\obj\Debug\net8.0\ref\EFCoreAssignment02.Infrastructure.dll
+C:\Users\GL75\OneDrive\Máy tính\Learning C#\EFCoreAssignment02\EFCoreAssignment02.Infrastructure\bin\Debug\net8.0\EFCoreAssignment02.Infrastructure.runtimeconfig.json
+C:\Users\GL75\OneDrive\Máy tính\Learning C#\EFCoreAssignment02\EFCoreAssignment02.Infrastructure\obj\Debug\net8.0\EFCoreAssignment02.Infrastructure.genruntimeconfig.cache
