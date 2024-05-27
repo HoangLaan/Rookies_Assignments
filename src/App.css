@@ -1,5 +1,6 @@
 .App {
-  text-align: center;
+  text-align: left;
+  padding: 30px;
 }
 
 .App-logo {
@@ -28,10 +29,172 @@
   color: #61dafb;
 }
 
+.App-name {
+  background-color: red;
+  font-weight: bold;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.count-button {
+  font-weight: bold;
+  font-size: 20px;
+  margin: 0px 20px;
+}
+
+.margin-input {
+  margin-bottom: 10px;
+}
+
+.validation-error {
+  color: red;
+  font-style: italic;
+  padding-left: 5px;
+  margin: 0;
+}
+
+.button-submit {
+  appearance: button;
+  background-color: #1899D6;
+  border: solid transparent;
+  border-radius: 16px;
+  border-width: 0 0 4px;
+  box-sizing: border-box;
+  color: #FFFFFF;
+  cursor: pointer;
+  display: inline-block;
+  font-family: din-round, sans-serif;
+  font-size: 15px;
+  font-weight: 700;
+  letter-spacing: .8px;
+  line-height: 20px;
+  margin: 0;
+  outline: none;
+  overflow: visible;
+  padding: 13px 16px;
+  text-align: center;
+  text-transform: uppercase;
+  touch-action: manipulation;
+  transform: translateZ(0);
+  transition: filter .2s;
+  user-select: none;
+  -webkit-user-select: none;
+  vertical-align: middle;
+  white-space: nowrap;
+  width: 100px;
+}
+
+.button-submit:after {
+  background-clip: padding-box;
+  background-color: #1CB0F6;
+  border: solid transparent;
+  border-radius: 16px;
+  border-width: 0 0 4px;
+  bottom: -4px;
+  content: "";
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+  z-index: -1;
+}
+
+.button-submit:main,
+.button-submit:focus {
+  user-select: auto;
+}
+
+.button-submit:hover:not(:disabled) {
+  filter: brightness(1.1);
+  -webkit-filter: brightness(1.1);
+}
+
+.button-submit:disabled {
+  cursor: auto;
+}
+
+.button-submit:active {
+  border-width: 4px 0 0;
+  background: none;
+}
+
+.button-register {
+  appearance: button;
+  background-color: #FF0000;
+  border: solid transparent;
+  border-radius: 16px;
+  border-width: 0 0 4px;
+  box-sizing: border-box;
+  color: #FFFFFF;
+  cursor: pointer;
+  display: inline-block;
+  font-family: din-round, sans-serif;
+  font-size: 15px;
+  font-weight: 700;
+  letter-spacing: .8px;
+  line-height: 20px;
+  margin: 0;
+  outline: none;
+  overflow: visible;
+  padding: 13px;
+  text-align: center;
+  text-transform: uppercase;
+  touch-action: manipulation;
+  transform: translateZ(0);
+  transition: filter .2s;
+  user-select: none;
+  -webkit-user-select: none;
+  vertical-align: middle;
+  white-space: nowrap;
+  width: 120px;
+  margin-left: 20px;
+}
+
+.button-register:after {
+  background-clip: padding-box;
+  background-color: #FF6666;
+  border: solid transparent;
+  border-radius: 16px;
+  border-width: 0 0 4px;
+  bottom: -4px;
+  content: "";
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+  z-index: -1;
+}
+
+.button-register:main,
+.button-register:focus {
+  user-select: auto;
+}
+
+.button-register:hover:not(:disabled) {
+  filter: brightness(1.1);
+  -webkit-filter: brightness(1.1);
+}
+
+.button-register:disabled {
+  cursor: auto;
+}
+
+.button-register:active {
+  border-width: 4px 0 0;
+  background: none;
+}
+
+.button-register:disabled,
+.button-register[disabled] {
+  border: 1px solid #999999;
+  background-color: #cccccc;
+  color: #666666;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
